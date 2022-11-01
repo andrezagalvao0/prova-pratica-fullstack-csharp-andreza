@@ -38,11 +38,11 @@ namespace Test.FizzBuzz
         }
 
         /*
-         * Dado um número inteiro, retorne um array de string onde:
+         * Dado um nï¿½mero inteiro, retorne um array de string onde:
 
-          resposta[i] == "FizzBuzz" se i for divisível por 3 e por 5
-          resposta[i] == "Fizz" se i for divisível por 3
-          resposta[i] == "Buzz" se i for divisível por 5
+          resposta[i] == "FizzBuzz" se i for divisï¿½vel por 3 e por 5
+          resposta[i] == "Fizz" se i for divisï¿½vel por 3
+          resposta[i] == "Buzz" se i for divisï¿½vel por 5
           resposta[i] == valor de i como string, caso nenhuma regra anterior tenha sido atendida
 
           Exemplo 1:
@@ -96,10 +96,5 @@ namespace Test.FizzBuzz
     }
 }
 
-///Given an integer n, return a string array answer (1-indexed) where:
 
-//answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
-//answer[i] == "Fizz" if i is divisible by 3.
-//answer[i] == "Buzz" if i is divisible by 5.
-//answer[i] == i(as a string) if none of the above conditions are true.
 
